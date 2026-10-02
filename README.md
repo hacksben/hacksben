@@ -4,8 +4,7 @@
 
 **Cybersecurity Professional | WAPT | Digital Forensics | Offensive & Defensive Tool Developer**
 
-[LINKEDIN](https://www.linkedin.com/in/mandeep-parmar-b73a54381) (https://www.linkedin.com/in/mandeep-parmar-b73a54381) [GITHUB](https://github.com/hacksben) [MR-N1CK](https://github.com/hacksben)
-
+[LINKEDIN](https://www.linkedin.com/in/mandeep-parmar-b73a54381)  [GITHUB](https://github.com/hacksben) 
 ![Profile Views](https://komarev.com/ghpvc/?username=hacksben&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
 </div>
@@ -81,16 +80,6 @@ Hands-on **Cybersecurity Professional**, **Web Application Penetration Tester (W
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔍 [Omni-Hunt](https://github.com/hacksben/omni-hunt)
-**Advanced OSINT & Credential-Awareness Framework**
-
-An enterprise-grade, real-time Open Source Intelligence (OSINT) and security awareness platform engineered for authorized red-team operations. Features asynchronous WebSocket telemetry, silent SMTP/DNS validation, Gravatar-based profile enumeration, and high-fidelity UI simulation.
-
-**Tech Stack:** `Python` `WebSockets` `dnspython` `HTML5/CSS3` `JavaScript`
-
----
 
 ## ⚖️ Ethical & Legal Mission
 
@@ -114,14 +103,7 @@ I strictly oppose:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hacksben&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacksben&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-
-</div>
 
 ---
 
