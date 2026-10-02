@@ -28,8 +28,8 @@ Hands-on **Cybersecurity Professional**, **Web Application Penetration Tester (W
 
 | Platform | Badge / Milestones | Core Practical Focus |
 | :--- | :--- | :--- |
-| ![PortSwigger](https://img.shields.io/badge/PORTSWIGGER-Web_Security_Academy-FF6B35?style=flat-square) | **120+ Labs Completed** | SQL Injection, XSS, CSRF, SSRF, IDOR, JWT & OAuth flaws, Authentication Bypass, and Business Logic attacks. |
-| ![TryHackMe](https://img.shields.io/badge/TRYHACKME-Red_&_Blue_Labs-212121?style=flat-square) | **70+ Labs Completed** | Linux & Windows Privilege Escalation, Network Enumeration, DFIR investigations, and Active Directory security. |
+| ![PortSwigger](https://img.shields.io/badge/PORTSWIGGER-Web_Security_Academy-FF6B35?style=flat-square) | **100+ Labs Completed** | SQL Injection, XSS, CSRF, SSRF, IDOR, JWT & OAuth flaws, Authentication Bypass, and Business Logic attacks. |
+| ![TryHackMe](https://img.shields.io/badge/TRYHACKME-Red_&_Blue_Labs-212121?style=flat-square) | **80+ Labs Completed** | Linux & Windows Privilege Escalation, Network Enumeration, DFIR investigations, and Active Directory security. |
 
 ---
 
@@ -79,8 +79,8 @@ Hands-on **Cybersecurity Professional**, **Web Application Penetration Tester (W
 
 ## 🎓 Education & Certifications
 
-- **Cybersecurity Diploma** — mCyberAcademy, Rohtak
-- **Networking Basics Certification** — Cisco Networking Academy *(Oct 2026)*
+- **Cybersecurity Diploma** — MCyberAcademy, Rohtak
+- **Networking Basics Certification** — Cisco Networking Academy 
 
 ---
 
@@ -92,9 +92,7 @@ I build tools and conduct research strictly for:
 - ✅ Controlled environments with explicit permission
 - ✅ Security awareness, education, and defensive hardening
 
-I strictly oppose:
--  Unauthorized access or illegal credential harvesting
-- ❌ Malicious phishing activity or privacy violations
+
 
 ---
 
@@ -103,7 +101,7 @@ I strictly oppose:
 - **LinkedIn:** [linkedin.com/in/mandeep-parmar-b73a54381](https://www.linkedin.com/in/mandeep-parmar-b73a54381)
 - **GitHub:** [github.com/hacksben](https://github.com/hacksben)
 - **Email:** sparmar28332@gmail.com
-- **Location:** Sonipat, Haryana, India
+- **Location:** Bhiwani,Haryana,India
 
 ---
 
