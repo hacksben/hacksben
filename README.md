@@ -4,7 +4,7 @@
 
 **Cybersecurity Professional | WAPT | Digital Forensics | Offensive & Defensive Tool Developer**
 
-[LINKEDIN](https://www.linkedin.com/in/mandeep-parmar-b73a54381) [PRINCE GAUR](https://www.linkedin.com/in/mandeep-parmar-b73a54381) [GITHUB](https://github.com/hacksben) [MR-N1CK](https://github.com/hacksben)
+[LINKEDIN](https://www.linkedin.com/in/mandeep-parmar-b73a54381) (https://www.linkedin.com/in/mandeep-parmar-b73a54381) [GITHUB](https://github.com/hacksben) [MR-N1CK](https://github.com/hacksben)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hacksben&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
