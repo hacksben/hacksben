@@ -4,15 +4,10 @@
 
 **Cybersecurity Professional | WAPT | Digital Forensics | Offensive & Defensive Tool Developer**
 
-<p align="center">
-  <a href="mailto:sparmar28332@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="https://github.com"><img src="https://shields.io" alt="GitHub" /></a>
-</p>
+[![Email](https://shields.io)](mailto:sparmar28332@gmail.com) [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com)
 
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+
+
 
 
 
