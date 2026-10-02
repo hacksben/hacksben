@@ -4,7 +4,16 @@
 
 **Cybersecurity Professional | WAPT | Digital Forensics | Offensive & Defensive Tool Developer**
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/mandeep-parmar-b73a54381) [![GitHub Views](https://komarev.com)](https://github.com/hacksben)
+<p align="center">
+  <a href="mailto:sparmar28332@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="https://github.com"><img src="https://shields.io" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
+
 
 
 </div>
