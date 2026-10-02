@@ -17,11 +17,10 @@
 
 ## 👨‍💻 Professional Overview
 
-Hands-on **Cybersecurity Professional**, **Web Application Penetration Tester (WAPT)**, and **Security Tool Developer** with practical experience spanning vulnerability assessment, adversary emulation, and **Digital Forensics & Incident Response (DFIR)**.
+Result-driven Cybersecurity Practitioner specializing in Full-Scope Web Application Penetration Testing (WAPT), Adversary Emulation, and Threat Mitigation. Adept at bridging the gap between offensive exploitation and defensive engineering, with proven expertise in orchestrating comprehensive vulnerability assessments and leading Digital Forensics and Incident Response (DFIR) operations.
 
-- 🔴 **Offensive Capabilities:** Web application penetration testing, OWASP Top 10 exploitation, custom payload engineering, stealth persistence mechanisms, reverse tunneling protocols, and network protocol manipulation.
-- 🔵 **Defensive & Digital Forensics:** Host & memory forensics, Windows Registry analysis, Linux artifact investigation, File Integrity Monitoring (FIM), real-time packet inspection, network traffic analysis, and incident triage.
-
+- 🔴 **Red Teaming & Offensive Operations:** Advanced expertise in identifying and exploiting critical security flaws across complex web applications, utilizing the OWASP Top 10 framework. Proficient in custom payload engineering, bypassing signature-based detection via stealth persistence, and manipulating network protocols and reverse tunneling architectures to demonstrate real-world risk.
+- 🔵 **Blue Teaming & Digital Forensics:** Demonstrated capability in minimizing organizational blast radius through rigorous host and volatile memory forensics. Skilled in deep-dive investigative analysis across Windows Registry structures and Linux artifacts, maintaining data integrity via File Integrity Monitoring (FIM), and performing line-rate packet analysis and network triage to isolate live security incidents.
 ---
 
 ## 🏆 Hands-On Practice & Lab Credentials
